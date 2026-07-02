@@ -1,0 +1,7 @@
+v 4
+file . "comparator_2bit.vhd" "12430899c042f3051ee66560fce896b94f1aad0c" "20260625085258.240":
+  entity comparator_2bit at 1( 0) + 0 on 15;
+  architecture dataflow of comparator_2bit at 13( 298) + 0 on 16;
+file . "comparator_tb.vhd" "c587aff05c67ff9bdad5eb8a0e02ce8b1c154f96" "20260625085258.248":
+  entity comparator_tb at 1( 0) + 0 on 17;
+  architecture simulation of comparator_tb at 5( 90) + 0 on 18;
