@@ -44,7 +44,7 @@ $LT = \overline{A_1}B_1 + (A_1 \odot B_1) \cdot \overline{A_0}B_0$
 ---
 
 ## Output
-![Comparator Simulation](comparator.png)
+![Comparator Simulation](image.png)
 
 ---
 
